@@ -34,7 +34,7 @@
 
 ### 报告
 
-- **Y.Cao**, _Data Science from a Topological Viewpoint._, 
+- **Y.Cao**, Data Science from a Topological Viewpoint. *The Second International Conference on Mathematical Characterization, Analysis and Applications of Complex Information (CMCAA 2018)*, Beijing, China, 2018. [[url](https://math.bit.edu.cn/cmcaa2018/program2018/index.htm)],[[ppt](cmcaa2018.pptx)]  
 
 ### 比赛获奖
 
