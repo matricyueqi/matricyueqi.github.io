@@ -17,7 +17,7 @@ Here is a latest version of my [CV](cv.pdf).
 
 ### Preprints
 
-- **Y.Cao**, D.Li, H.Sun, A.H.Assadi, S.Zhang, Efficient Weingarten Map and Curvature Estimation on Manifolds. [[url](https://arxiv.org/abs/1905.10725)],[[pdf](weingarten-v2.pdf)]
+- **Y.Cao**, D.Li, H.Sun, A.H.Assadi, S.Zhang, Efficient Weingarten Map and Curvature Estimation on Manifolds. [[url](https://arxiv.org/abs/1905.10725)],[[pdf](/papers-and-ppts/weingarten-v2.pdf)]
 - Y.Luo, S.Zhang, **Y.Cao**, H.Sun, Geometric Characteristics of Wasserstein Metric on SPD(n). [[url](https://arxiv.org/abs/2012.07106)],[[pdf](luo-v1.pdf)]
 
 ### Publications  
