@@ -40,5 +40,7 @@ Here is a latest version of my [CV](cv.pdf).
 
 ### Scholarships
 
+- 2019 National Scholarship for Graduate Students. [certificate](/certificates/研究生国奖.pdf)
+
 ### Other Links
 [[arXiv](https://arxiv.org/)],[[(ORCID)](https://orcid.org/0000-0001-8856-2902)],[[ResearchGate](https://www.researchgate.net/profile/Yueqi_Cao2)],[[Github](www.github.com/yueqicao)],[[中文版](index-ch.md)]
