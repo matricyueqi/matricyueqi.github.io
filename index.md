@@ -38,9 +38,19 @@ Here is a latest version of my [CV](cv.pdf).
 
 ### Awards
 
+- 2017 Winning Prize of Geometry and Topology in 8th S.T.Yau College Student Mathematics Contests. [[CERT](/certificates/丘成桐几何.pdf)]
+- 2017 Winning Prize of Team in 8th S.T.Yau College Student Mathematics Contests. [[CERT](/certificates/丘成桐团体.pdf)]
+- 2016 Grand Prize in 1st Excellence 9 College Student Mathematics Contests. [[CERT](/certificates/卓越联盟.pdf)]
+- 2016 Second Prize in CUMCM-2016 (Contemporary Undergraduate Mathematical Contest in Modeling). [[CERT](/certificates/国赛建模.pdf)]
+
 ### Scholarships
 
+- 2020 Second Prize of CASC Scholarship. [[CERT](/certificates/CASC.pdf)]
+
 - 2019 National Scholarship for Graduate Students. [[CERT](/certificates/研究生国奖.pdf)]
+- 2017 Second Prize of Innovation Scholarship of Industry and Information Technology of People's Republic of China. [[CERT](/certificates/工信.pdf)]
+- 2016&2015 Dwen Scholarship. [[CERT](/certificates/迪文.pdf)]
+- 2014--2018 Undergraduate Student Scholarship. [[CERT](/certificates/本科生奖学金.pdf)]
 
 ### Other Links
-[[arXiv](https://arxiv.org/)],[[(ORCID)](https://orcid.org/0000-0001-8856-2902)],[[ResearchGate](https://www.researchgate.net/profile/Yueqi_Cao2)],[[Github](www.github.com/yueqicao)],[[中文版](index-ch.md)]
+[[arXiv](https://arxiv.org/)],[[ORCID](https://orcid.org/0000-0001-8856-2902)],[[ResearchGate](https://www.researchgate.net/profile/Yueqi_Cao2)],[[Github](www.github.com/yueqicao)],[[中文版](index-ch.md)]
