@@ -7,7 +7,7 @@
 ### 教育经历
 
 - **2018--present** 北京理工大学数学硕士
-- **2014--2018** 北京理工大学数学本科 
+- **2014--2018** 北京理工大学数学本科 [[毕业论文](/papers-and-ppts/本科毕业论文.pdf)]
 
 ### 研究方向
 
@@ -17,28 +17,44 @@
 
 ### 预印本
 
-- **Y.Cao**, D.Li, H.Sun, A.H.Assadi, S.Zhang, Efficient Weingarten Map and Curvature Estimation on Manifolds. [[url](https://arxiv.org/abs/1905.10725)],[[pdf](weingarten-v2.pdf)]
-- Y.Luo, S.Zhang, **Y.Cao**, H.Sun, Geometric Characteristics of Wasserstein Metric on SPD(n). [[url](https://arxiv.org/abs/2012.07106)],[[pdf](luo-v1.pdf)]
+- **Y.Cao**, D.Li, H.Sun, A.H.Assadi, S.Zhang, Efficient Weingarten Map and Curvature Estimation on Manifolds. [[URL](https://arxiv.org/abs/1905.10725)], [[PDF](/papers-and-ppts/weingarten-v2.pdf)]
+- Y.Luo, S.Zhang, **Y.Cao**, H.Sun, Geometric Characteristics of Wasserstein Metric on SPD(n). [[URL](https://arxiv.org/abs/2012.07106)], [[PDF](/papers-and-ppts/luo-v1.pdf)]
 
 ### 发表论文  
 
-- F.Sun, **Y.Cao**, S.Zhang, H.Sun, The Bayesian Inference of Pareto Models Based on Information Geometry. *Entropy*, 2021. [[url](https://www.mdpi.com/1099-4300/23/1/45)],[[pdf](entropy-sun.pdf)] 
-- J.Yi, S.Zhang, **Y.Cao**, E.Zhang, H.Sun, Rigid Shape Registration Based on Extended Hamiltonian Learning. *Entropy*, 2020. [[url](https://www.mdpi.com/1099-4300/22/5/539)],[[pdf](entropy-yi.pdf)]
-- Y.Wang, H.Sun, **Y.Cao**, S.Zhang, Torsion Discriminance for Stability of Linear Time-Invariant Systems. *Mathematics*, 2020. [[url](https://www.mdpi.com/2227-7390/8/3/386)],[[pdf](mathematics-wang.pdf)] 
+- F.Sun, **Y.Cao**, S.Zhang, H.Sun, The Bayesian Inference of Pareto Models Based on Information Geometry. *Entropy*, 2021. [[URL](https://www.mdpi.com/1099-4300/23/1/45)], [[PDF](/papers-and-ppts/entropy-sun.pdf)] 
+- J.Yi, S.Zhang, **Y.Cao**, E.Zhang, H.Sun, Rigid Shape Registration Based on Extended Hamiltonian Learning. *Entropy*, 2020. [[URL](https://www.mdpi.com/1099-4300/22/5/539)], [[PDF](/papers-and-ppts/entropy-yi.pdf)]
+- Y.Wang, H.Sun, **Y.Cao**, S.Zhang, Torsion Discriminance for Stability of Linear Time-Invariant Systems. *Mathematics*, 2020. [[URL](https://www.mdpi.com/2227-7390/8/3/386)], [[PDF](/papers-and-ppts/mathematics-wang.pdf)] 
 
 ### 会议论文
 
-- **Y.Cao**, S.Zhang, F.Yan, W.Li, F.Sun, H.Sun, Unsupervised Environmental Sound Classification Based On Topological Persistence. *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Chongqing, China, 2019. [[url](https://ieeexplore.ieee.org/document/9173135)],[[pdf](icsidp2019cao.pdf)]
-- S.Zhang, **Y.Cao**, W.Li, F.Yan, Y.Luo, H.Sun, A New Riemannian Structure in SPD(n). *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Chongqing, China, 2019. [[url](https://ieeexplore.ieee.org/document/9173017)],[[pdf](icsidp2019zhang.pdf)]
-- A.Xiong, A.Assadi, **Y.Cao**, Calculating Persistence Homology of Attractors in High-Dimensional Chaotic Systems, *2017 International Conference on Computational Science and Computational Intelligence (CSCI)*, Las Vegas, NV, 2017. [[url](https://ieeexplore.ieee.org/document/8560778)],[[pdf](anda2017.pdf)]
+- **Y.Cao**, S.Zhang, F.Yan, W.Li, F.Sun, H.Sun, Unsupervised Environmental Sound Classification Based On Topological Persistence. *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Chongqing, China, 2019. [[URL](https://ieeexplore.ieee.org/document/9173135)], [[PDF](/papers-and-ppts/icsidp2019cao.pdf)]
+- S.Zhang, **Y.Cao**, W.Li, F.Yan, Y.Luo, H.Sun, A New Riemannian Structure in SPD(n). *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Chongqing, China, 2019. [[URL](https://ieeexplore.ieee.org/document/9173017)], [[PDF](/papers-and-ppts/icsidp2019zhang.pdf)]
+- A.Xiong, A.Assadi, **Y.Cao**, Calculating Persistence Homology of Attractors in High-Dimensional Chaotic Systems, *2017 International Conference on Computational Science and Computational Intelligence (CSCI)*, Las Vegas, NV, 2017. [[URL](https://ieeexplore.ieee.org/document/8560778)], [[PDF](/papers-and-ppts/anda2017.pdf)]
 
 ### 报告
 
-- **Y.Cao**, Data Science from a Topological Viewpoint. *The Second International Conference on Mathematical Characterization, Analysis and Applications of Complex Information (CMCAA 2018)*, Beijing, China, 2018. [[url](https://math.bit.edu.cn/cmcaa2018/program2018/index.htm)],[[ppt](cmcaa2018.pptx)]  
+- **Y.Cao**, Data Science from a Topological Viewpoint. *The Second International Conference on Mathematical Characterization, Analysis and Applications of Complex Information (CMCAA 2018)*, Beijing, China, 2018. [[URL](https://math.bit.edu.cn/cmcaa2018/program2018/index.htm)], [[PPT](cmcaa2018.pptx)]  
 
 ### 比赛获奖
 
+- 2017 第八届丘成桐大学生数学竞赛几何与拓扑组优胜奖. [[证书](/certificates/丘成桐几何.pdf)]
+- 2017 第八届丘成桐大学生数学竞赛团体赛优胜奖. [[证书](/certificates/丘成桐团体.pdf)]
+- 2016 首届卓越联盟大学生数学竞赛特等奖. [[证书](/certificates/卓越联盟.pdf)]
+- 2016 全国大学生数学建模竞赛国家级二等奖. [[证书](/certificates/国赛建模.pdf)]
+  
 ### 奖学金
+- 2020 CASC二等奖学金. [[证书](/certificates/CASC.pdf)]
+- 2019 研究生国家奖学金. [[证书](/certificates/研究生国奖.pdf)]
+- 2017 工信部创新创业二等奖学金. [[证书](/certificates/工信.pdf)]
+- 2016&2015 迪文奖学金. [[证书](/certificates/迪文.pdf)]
+- 2014--2018 本科生奖学金. [[证书](/certificates/本科生奖学金.pdf)]
+
+### 荣誉称号
+- 2020 优秀研究生干部. [[证书](certificates/2020优秀研究生干部.pdf)]
+- 2019 优秀研究生标兵. [[证书](certificates/优秀研究生标兵.pdf)]
+- 2019 优秀研究生骨干. [[证书](certificates/优秀研究生骨干.pdf)]
+- 2018 北京理工大学优秀毕业生. [[证书](certificates/北京理工大学优秀毕业生.pdf)] 
 
 ### 其他链接
-[[arXiv](https://arxiv.org/)],[[(ORCID)](https://orcid.org/0000-0001-8856-2902)],[[ResearchGate](https://www.researchgate.net/profile/Yueqi_Cao2)],[[Github](www.github.com/yueqicao)],[[中文版](index-ch.md)]
+[[arXiv](https://arxiv.org/)], [[(ORCID)](https://orcid.org/0000-0001-8856-2902)], [[ResearchGate](https://www.researchgate.net/profile/Yueqi_Cao2)], [[Github](www.github.com/yueqicao)], [[英文版](index.md)]
