@@ -1,0 +1,19 @@
+---
+output: html_document
+---
+
+# Scholarships
+
+- 2020 Second Prize of CASC Scholarship. 
+- 2019 National Scholarship for Graduate Students. 
+- 2017 Second Prize of Innovation Scholarship of Industry and Information Technology of People's Republic of China. 
+- 2016&2015 Dwen Scholarship. 
+- 2014--2018 Undergraduate Student Scholarship. 
+
+# Awards
+
+- 2017 Winning Prize of Geometry and Topology in 8th S.T.Yau College Student Mathematics Contests. 
+- 2017 Winning Prize of Team in 8th S.T.Yau College Student Mathematics Contests. 
+- 2016 Grand Prize in 1st Excellence 9 College Student Mathematics Contests. 
+- 2016 Second Prize in CUMCM-2016 (Contemporary Undergraduate Mathematical Contest in Modeling). 
+

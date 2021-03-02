@@ -11,7 +11,7 @@
 
 
 
-<title>Include Images</title>
+<title>research.utf8</title>
 
 <script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
@@ -30,7 +30,7 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">
@@ -244,60 +244,26 @@ $(document).ready(function () {
         <li>
   <a href="index.html">Home</a>
 </li>
-<li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-    Getting Started
-     
-    <span class="caret"></span>
-  </a>
-  <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="project.html">Create a Project</a>
-    </li>
-    <li>
-      <a href="build.html">Set Build Options</a>
-    </li>
-    <li>
-      <a href="create_yml.html">Create a _site.yml</a>
-    </li>
-    <li>
-      <a href="theme.html">Change the Theme</a>
-    </li>
-  </ul>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="awards.html">Awards</a>
+</li>
+<li>
+  <a href="cv.pdf">CV</a>
 </li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-    Add Features
+    Others
      
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Bio</li>
+    <li class="dropdown-header">Codes</li>
     <li>
-      <a href="tables_plots.html">Tables and Plots</a>
-    </li>
-    <li>
-      <a href="images.html">Include Images</a>
-    </li>
-    <li>
-      <a href="embed.html">Embed a webpage</a>
-    </li>
-    <li>
-      <a href="info.html">Embed an infographic</a>
-    </li>
-  </ul>
-</li>
-<li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-    Publish and Update
-     
-    <span class="caret"></span>
-  </a>
-  <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="publishing.html">Publishing</a>
-    </li>
-    <li>
-      <a href="updating.html">Updating</a>
+      <a href="links.html">Links</a>
     </li>
   </ul>
 </li>
@@ -313,24 +279,39 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Include Images</h1>
 
 </div>
 
 
-<p>Including an image using <code>rmarkdown</code> is easy.</p>
-<p>In the files pane in RStudio choose <code>New Folder</code> (or create one in your Finder in the Rproject folder). Call it say <code>images</code>.</p>
-<p>To reference an image in rmarkdown use the following.</p>
-<p><code>![](images/yourimagename.png)</code></p>
-<p>Here is an example of a network visual created in <a href="https://gephi.org">Gephi</a> and saved in <code>images</code>.</p>
-<p><img src="images/fig31_adjust_nodes.png" /></p>
-<p>##Sizing images</p>
-<p>There are a number of ways of sizing images using the <code>knitr</code> package. One of the simplest is to size images in R code chunks.</p>
-<p>To inserta code chunk use <code>Ctrl Alt I</code> on Windows or <code>Cmd I</code> on a Mac.</p>
-<p>In the code chunk heading we could specify the width of a figure as percentages and we might also want to centre the figure <code>{r out.width = "50%", fig.align = "center"}</code>. We would then include a call to <code>knitr::include_graphics()</code> with our image address in quotes as below. Note that the knitr documentation specifies that you may need to <code>install.packages("png")</code> and <code>install.packages("jpeg")</code> for automatic calculation of the width of images.</p>
-<p>For most purposes something like this will work for a web page display.</p>
-<pre class="r"><code>knitr::include_graphics(&quot;images/fig31_adjust_nodes.png&quot;)</code></pre>
-<p><img src="images/fig31_adjust_nodes.png" width="50%" style="display: block; margin: auto;" /></p>
+<div id="preprints" class="section level1">
+<h1>Preprints</h1>
+<ul>
+<li><strong>Y.Cao</strong>, D.Li, H.Sun, A.H.Assadi, S.Zhang, Efficient Weingarten Map and Curvature Estimation on Manifolds. [<a href="https://arxiv.org/abs/1905.10725">URL</a>], [<a href="/papers-and-ppts/weingarten-v2.pdf">PDF</a>]</li>
+<li>Y.Luo, S.Zhang, <strong>Y.Cao</strong>, H.Sun, Geometric Characteristics of Wasserstein Metric on SPD(n). [<a href="https://arxiv.org/abs/2012.07106">URL</a>], [<a href="/papers-and-ppts/luo-v1.pdf">PDF</a>]</li>
+</ul>
+</div>
+<div id="publications" class="section level1">
+<h1>Publications</h1>
+<ul>
+<li>F.Sun, <strong>Y.Cao</strong>, S.Zhang, H.Sun, The Bayesian Inference of Pareto Models Based on Information Geometry. <em>Entropy</em>, 2021. [<a href="https://www.mdpi.com/1099-4300/23/1/45">URL</a>], [<a href="/papers-and-ppts/entropy-sun.pdf">PDF</a>]</li>
+<li>J.Yi, S.Zhang, <strong>Y.Cao</strong>, E.Zhang, H.Sun, Rigid Shape Registration Based on Extended Hamiltonian Learning. <em>Entropy</em>, 2020. [<a href="https://www.mdpi.com/1099-4300/22/5/539">URL</a>], [<a href="/papers-and-ppts/entropy-yi.pdf">PDF</a>]</li>
+<li>Y.Wang, H.Sun, <strong>Y.Cao</strong>, S.Zhang, Torsion Discriminance for Stability of Linear Time-Invariant Systems. <em>Mathematics</em>, 2020. [<a href="https://www.mdpi.com/2227-7390/8/3/386">URL</a>], [<a href="/papers-and-ppts/mathematics-wang.pdf">PDF</a>]</li>
+</ul>
+</div>
+<div id="conferences" class="section level1">
+<h1>Conferences</h1>
+<ul>
+<li><strong>Y.Cao</strong>, S.Zhang, F.Yan, W.Li, F.Sun, H.Sun, Unsupervised Environmental Sound Classification Based On Topological Persistence. <em>2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)</em>, Chongqing, China, 2019. [<a href="https://ieeexplore.ieee.org/document/9173135">URL</a>], [<a href="/papers-and-ppts/icsidp2019cao.pdf">PDF</a>]</li>
+<li>S.Zhang, <strong>Y.Cao</strong>, W.Li, F.Yan, Y.Luo, H.Sun, A New Riemannian Structure in SPD(n). <em>2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)</em>, Chongqing, China, 2019. [<a href="https://ieeexplore.ieee.org/document/9173017">URL</a>], [<a href="/papers-and-ppts/icsidp2019zhang.pdf">PDF</a>]</li>
+<li>A.Xiong, A.Assadi, <strong>Y.Cao</strong>, Calculating Persistence Homology of Attractors in High-Dimensional Chaotic Systems, <em>2017 International Conference on Computational Science and Computational Intelligence (CSCI)</em>, Las Vegas, NV, 2017. [<a href="https://ieeexplore.ieee.org/document/8560778">URL</a>], [<a href="/papers-and-ppts/anda2017.pdf">PDF</a>]</li>
+</ul>
+</div>
+<div id="talks" class="section level1">
+<h1>Talks</h1>
+<ul>
+<li><strong>Y.Cao</strong>, Data Science from a Topological Viewpoint. <em>The Second International Conference on Mathematical Characterization, Analysis and Applications of Complex Information (CMCAA 2018)</em>, Beijing, China, 2018. [<a href="https://math.bit.edu.cn/cmcaa2018/program2018/index.htm">URL</a>], [<a href="/papers-and-ppts/cmcaa2018.pptx">PPT</a>]</li>
+</ul>
+</div>
 
 
 
