@@ -1,3 +1,7 @@
+---
+title: "Yueqi Cao's Homepage"
+---
+
 Welcome to my homepage!
 
 Currently I’m a master candidate in mathematics at Beijing Institute of Technology. My advisor is Prof. [Huafei Sun](https://math.bit.edu.cn/szdw/azcpl/js/shf/index.htm). My research focuses on the construction of the second fundamental form estimator on Euclidean submanifolds. A recent work can be found on [arXiv](https://arxiv.org/abs/1905.10725).
@@ -53,3 +57,6 @@ Here is a latest version of my [CV](cv.pdf).
 
 ### Other Links
 [[arXiv](https://arxiv.org/)], [[ORCID](https://orcid.org/0000-0001-8856-2902)], [[ResearchGate](https://www.researchgate.net/profile/Yueqi_Cao2)], [[Github](www.github.com/yueqicao)], [[中文版](index-ch.md)]
+
+
+
