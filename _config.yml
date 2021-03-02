@@ -1,7 +1,7 @@
 name: "Yueqi Cao's Homepage"
 output:
   html_document:
-    theme: Dinky # specifies the theme
+    theme: jekyll-theme-cayman # specifies the theme
 navbar:
   left:
     - text: "Home"
