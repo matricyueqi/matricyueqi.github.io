@@ -1,0 +1,5 @@
+---
+output: html_document
+---
+
+- WME: Estimating the Weingarten map for submanifold point clouds  
