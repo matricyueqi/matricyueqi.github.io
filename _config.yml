@@ -6,4 +6,6 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "中文版"
+      href: index-ch.html
 output_dir: "." # if publishing on Github pages
