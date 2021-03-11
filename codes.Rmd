@@ -8,7 +8,7 @@ output: html_document
 
 WME (*Weingarten Map Estimator*) is an efficient algorithm to estimate the Weingarten map (or shape operator, or the second fundamental form in the literature of differential geometry) for submanifold point clouds in arbitrary dimension. The matlab code can be found in my github repository [WME](https://github.com/YueqiCao/WME.git). You can also download packages
 
-- [zip](https://github.com/YueqiCao/WME/archive/v1.0.zip)
-- [tar.gz](https://github.com/YueqiCao/WME/archive/v1.0.tar.gz)
+- [zip](https://github.com/YueqiCao/WME/archive/v1.1.zip)
+- [tar.gz](https://github.com/YueqiCao/WME/archive/v1.1.tar.gz)
 
 
