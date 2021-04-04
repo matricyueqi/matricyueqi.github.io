@@ -1,0 +1,8 @@
+---
+title: "Photos"
+output: html_document
+---
+
+<img src="images/Yau.JPG" width=100% height=75% div align=center />
+
+_(BIT team in S.T.Yau College Student Mathematics Contests, 2017)_
