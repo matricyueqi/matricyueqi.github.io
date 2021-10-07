@@ -4,11 +4,11 @@ output: html_document
 
 # Preprints
 
-- **Y.Cao**, D.Li, H.Sun, A.H.Assadi, S.Zhang, Efficient Weingarten Map and Curvature Estimation on Manifolds. [[URL](https://arxiv.org/abs/1905.10725)], [[PDF](/papers-and-ppts/weingarten-v2.pdf)]
-- Y.Luo, S.Zhang, **Y.Cao**, H.Sun, Geometric Characteristics of Wasserstein Metric on SPD(n). [[URL](https://arxiv.org/abs/2012.07106)], [[PDF](/papers-and-ppts/luo-v1.pdf)]
+- A.Vlontzos, **Y.Cao**, L.Schmidtke, B.Kainz, A.Monod, Topological Information Retrieval with Dilation-Invariant Bottleneck Comparative Measures. [[URL](https://arxiv.org/abs/2104.01672)], [[PDF](/papers-and-ppts/tdair-v2.pdf)]
 
 # Publications  
 
+- **Y.Cao**, D.Li, H.Sun, A.H.Assadi, S.Zhang, Efficient Weingarten Map and Curvature Estimation on Manifolds. *Machine Learning Journal*, 2021. [[URL](https://link.springer.com/article/10.1007%2Fs10994-021-05953-4)], [[PDF](/papers-and-ppts/weingarten-v2.pdf)]
 - F.Sun, **Y.Cao**, S.Zhang, H.Sun, The Bayesian Inference of Pareto Models Based on Information Geometry. *Entropy*, 2021. [[URL](https://www.mdpi.com/1099-4300/23/1/45)], [[PDF](/papers-and-ppts/entropy-sun.pdf)] 
 - J.Yi, S.Zhang, **Y.Cao**, E.Zhang, H.Sun, Rigid Shape Registration Based on Extended Hamiltonian Learning. *Entropy*, 2020. [[URL](https://www.mdpi.com/1099-4300/22/5/539)], [[PDF](/papers-and-ppts/entropy-yi.pdf)]
 - Y.Wang, H.Sun, **Y.Cao**, S.Zhang, Torsion Discriminance for Stability of Linear Time-Invariant Systems. *Mathematics*, 2020. [[URL](https://www.mdpi.com/2227-7390/8/3/386)], [[PDF](/papers-and-ppts/mathematics-wang.pdf)] 

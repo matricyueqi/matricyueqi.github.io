@@ -4,6 +4,7 @@ output: html_document
 
 # Scholarships
 
+- 2021 President's PhD Scholarship at Imperial College London.
 - 2020 Second Prize of CASC Scholarship. 
 - 2019 National Scholarship for Graduate Students. 
 - 2017 Second Prize of Innovation Scholarship of Industry and Information Technology of People's Republic of China. 

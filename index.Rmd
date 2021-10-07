@@ -3,19 +3,22 @@ title: "Yueqi Cao's Homepage"
 output: html_document
 ---
 
-Currently I’m a master candidate in mathematics at Beijing Institute of Technology. My advisor is Prof. [Huafei Sun](https://math.bit.edu.cn/szdw/azcpl/js/shf/index.htm). My research focuses on the construction of the second fundamental form estimator on Euclidean submanifolds. A recent work can be found on [arXiv](https://arxiv.org/abs/1905.10725).
+I’m now a PhD student in statistics at Imperial College London under the supervision of Dr. [Anthea Monod](https://sites.google.com/view/antheamonod/home). My current research focuses on applying subsampling methods to topological data analysis.
+
+I obtained my master and bachelor's degree at Beijing Institute of Technology under the supervision of Dr. [Huafei Sun](https://math.bit.edu.cn/szdw/azcpl/js/shf/index.htm). My master thesis is about the construction of the second fundamental form estimator on Euclidean submanifolds. 
 
 
 ### Education
 
-- 2018--present M.S. in Mathematics, Beijing Institute of Technology.
-- 2014--2018 B.S. in Mathematics, Beijing Institute of Technology. [[Thesis (in Chinese)](/papers-and-ppts/本科毕业论文.pdf)]
+- 2021--Present Ph.D. in Statistics, Imperial College London.
+- 2018--2021 M.S. in Mathematics, Beijing Institute of Technology. [[Master Thesis (in Chinese)](/papers-and-ppts/masterthesis.pdf)]
+- 2014--2018 B.S. in Mathematics, Beijing Institute of Technology. [[Bachelor Thesis (in Chinese)](/papers-and-ppts/本科毕业论文.pdf)]
 
 ### Research Interests
 
 - Geometric and Statistical Inference
 - Topological Data Analysis
-- Signal Processing
+- Tropical Geometry
 
 
 
