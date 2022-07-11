@@ -13,14 +13,14 @@ navbar:
       href: codes.html
     - text: "CV"
       href: cv.pdf
-    - text: "Others"
-      menu:
-        - text: "Bio"
-          href:
-        - text: "Awards"
-          href: awards.html
-        - text: "Photos"
-          href: photos.html
-        - text: "Links"
-          href: links.html
+    # - text: "Others"
+    #   menu:
+    #     - text: "Bio"
+    #       href:
+    #     - text: "Awards"
+    #       href: awards.html
+    #     - text: "Photos"
+    #       href: photos.html
+    #     - text: "Links"
+    #       href: links.html
 output_dir: "."
