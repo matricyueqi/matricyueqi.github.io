@@ -25,7 +25,7 @@ output: html_document
 
 # Teaching
 
-- Aalto-Imperial-TUM workshops on Algebraic Methods in Data Science, *An introduction to Topological Data Analysis*, joint work with [Anna Song](https://sites.google.com/view/annasong). [[Slides](/papers-and-ppts/TDA_tutorial)]] 
+- Aalto-Imperial-TUM workshops on Algebraic Methods in Data Science, *An introduction to Topological Data Analysis*, joint work with [Anna Song](https://sites.google.com/view/annasong), Jan 2022. [[Slides](/papers-and-ppts/TDA_tutorial.pdf)]
 
 
 
