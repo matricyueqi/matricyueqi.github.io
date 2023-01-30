@@ -6,7 +6,7 @@ output: html_document
 
 ![](images/Me.jpg)
 
-I’m now a PhD student in statistics at Imperial College London under the supervision of Dr. [Anthea Monod](https://sites.google.com/view/antheamonod/home). My current research focuses on applying subsampling methods to topological data analysis.
+I’m now a PhD student in statistics at Imperial College London under the supervision of Dr. [Anthea Monod](https://sites.google.com/view/antheamonod/home). My current research focuses on the computation of tropical Abel-Jacobi transformation and persistent homology of tropical curves. Previously I worked on statistical approximation of persistence diagrams of large datasets via subsampling. You can find this work [here](https://arxiv.org/abs/2204.09155). 
 
 I obtained my master and bachelor's degree at Beijing Institute of Technology under the supervision of Dr. [Huafei Sun](https://math.bit.edu.cn/szdw/azcpl/js/shf/index.htm). My master thesis is about the construction of the second fundamental form estimator on Euclidean submanifolds. 
 
