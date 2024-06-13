@@ -3,13 +3,14 @@ output: html_document
 ---
 
 # Preprints
+- S.Bhatia, **Y.Cao**, P.Lezeau, A.Monod, Tropical Expressivity of Neural Networks. [[URL](https://arxiv.org/abs/2405.20174)],[[PDF]()]
 - R.Talbut, D.Tramontano, **Y.Cao**, M.Drton, A.Monod, Probability Metrics for Tropical Spaces of Different Dimensions. [[URL](https://arxiv.org/abs/2307.02846)],[[PDF]()]
-- **Y.Cao**, P.Leung, A.Monod, k-Means Clustering for Persistent Homology.[[URL](https://arxiv.org/abs/2210.10003)],[[PDF]()]
 - **Y.Cao**, A.Monod, A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams. [[URL](https://arxiv.org/abs/2207.03943)], [[PDF](/papers-and-ppts/grouping-v1.pdf)]
 - **Y.Cao**, A.Monod, Approximating Persistent Homology for Large Datasets. [[URL](https://arxiv.org/abs/2204.09155)], [[PDF](/papers-and-ppts/approx-v2.pdf)]
 
 
 # Publications  
+- **Y.Cao**, P.Leung, A.Monod, k-Means Clustering for Persistent Homology.*Advances in Data Analysis and Classification*, 2024. [[URL](https://link.springer.com/article/10.1007/s11634-023-00578-y)],[[PDF](/papers-and-ppts/kmeans-v4.pdf)]
 - **Y.Cao**, A.Vlontzos, L.Schmidtke, B.Kainz, A.Monod, Topological Information Retrieval with Dilation-Invariant Bottleneck Comparative Measures. *Information and Inference: A Journal of IMA*, 2023. [[URL](https://academic.oup.com/imaiai/article/12/3/iaad022/7217093)], [[PDF](/papers-and-ppts/tdair-v3.pdf)]
 - **Y.Cao**, D.Li, H.Sun, A.H.Assadi, S.Zhang, Efficient Weingarten Map and Curvature Estimation on Manifolds. *Machine Learning Journal*, 2021. [[URL](https://link.springer.com/article/10.1007%2Fs10994-021-05953-4)], [[PDF](/papers-and-ppts/weingarten-v2.pdf)]
 - F.Sun, **Y.Cao**, S.Zhang, H.Sun, The Bayesian Inference of Pareto Models Based on Information Geometry. *Entropy*, 2021. [[URL](https://www.mdpi.com/1099-4300/23/1/45)], [[PDF](/papers-and-ppts/entropy-sun.pdf)] 
@@ -17,16 +18,17 @@ output: html_document
 - Y.Wang, H.Sun, **Y.Cao**, S.Zhang, Torsion Discriminance for Stability of Linear Time-Invariant Systems. *Mathematics*, 2020. [[URL](https://www.mdpi.com/2227-7390/8/3/386)], [[PDF](/papers-and-ppts/mathematics-wang.pdf)] 
 
 # Conferences
-- **Y.Cao**, A.Monod, A Condition for the Uniqueness of Fréchet Means of Persistence Diagrams, *Minisymposium on Applied Algebraic Topology: Theory and Implementation, SIAM Conference on Applied Algebraic Geometry*, Eindhoven, the Netherlands, 2023. [[Invited Talk]()]
-- **Y.Cao**, A.Monod, A Condition for the Uniqueness of Fréchet Means of Persistence Diagrams, *Algebraic Topology: Methods, Computation and Science (ATMCS10)*, Oxford, UK, 2022. [[Poster](/papers-and-ppts/ATMCS10.pdf)]
-- **Y.Cao**, S.Zhang, F.Yan, W.Li, F.Sun, H.Sun, Unsupervised Environmental Sound Classification Based On Topological Persistence. *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Chongqing, China, 2019. [[URL](https://ieeexplore.ieee.org/document/9173135)], [[PDF](/papers-and-ppts/icsidp2019cao.pdf)]
-- S.Zhang, **Y.Cao**, W.Li, F.Yan, Y.Luo, H.Sun, A New Riemannian Structure in SPD(n). *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Chongqing, China, 2019. [[URL](https://ieeexplore.ieee.org/document/9173017)], [[PDF](/papers-and-ppts/icsidp2019zhang.pdf)]
-- A.Xiong, A.Assadi, **Y.Cao**, Calculating Persistence Homology of Attractors in High-Dimensional Chaotic Systems, *2017 International Conference on Computational Science and Computational Intelligence (CSCI)*, Las Vegas, NV, 2017. [[URL](https://ieeexplore.ieee.org/document/8560778)], [[PDF](/papers-and-ppts/anda2017.pdf)]
-- **Y.Cao**, Data Science from a Topological Viewpoint. *The Second International Conference on Mathematical Characterization, Analysis and Applications of Complex Information (CMCAA 2018)*, Beijing, China, 2018. [[URL](https://math.bit.edu.cn/cmcaa2018/program2018/index.htm)], [[Slides](/papers-and-ppts/cmcaa2018.pptx)] 
+- S.Bhatia, **Y.Cao**, P.Lezeau, A.Monod, A Tropical Geometric Perspective on Deep Learning, *Geometric Deep Learning workshop*, Cambridge, 2024. [[Poster](/papers-and-ppts/TropicalNN-Poster.pdf)]
+- **Y.Cao**, A.Monod, A Condition for the Uniqueness of Fréchet Means of Persistence Diagrams, *Minisymposium on Applied Algebraic Topology: Theory and Implementation, SIAM Conference on Applied Algebraic Geometry*, Eindhoven, 2023. [[Invited Talk]()]
+- **Y.Cao**, A.Monod, A Condition for the Uniqueness of Fréchet Means of Persistence Diagrams, *Algebraic Topology: Methods, Computation and Science (ATMCS10)*, Oxford, 2022. [[Poster](/papers-and-ppts/ATMCS10.pdf)]
+- **Y.Cao**, S.Zhang, F.Yan, W.Li, F.Sun, H.Sun, Unsupervised Environmental Sound Classification Based On Topological Persistence. *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Chongqing, 2019. [[URL](https://ieeexplore.ieee.org/document/9173135)], [[PDF](/papers-and-ppts/icsidp2019cao.pdf)]
+- S.Zhang, **Y.Cao**, W.Li, F.Yan, Y.Luo, H.Sun, A New Riemannian Structure in SPD(n). *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Chongqing, 2019. [[URL](https://ieeexplore.ieee.org/document/9173017)], [[PDF](/papers-and-ppts/icsidp2019zhang.pdf)]
+- A.Xiong, A.Assadi, **Y.Cao**, Calculating Persistence Homology of Attractors in High-Dimensional Chaotic Systems, *2017 International Conference on Computational Science and Computational Intelligence (CSCI)*, Las Vegas, 2017. [[URL](https://ieeexplore.ieee.org/document/8560778)], [[PDF](/papers-and-ppts/anda2017.pdf)]
+
 
 # Teaching Assistances
 
-- Imperial MLDS, *Unstructured Data Analysis*, Sep 2022 -- Jan 2023. [[website](https://www.imperial.ac.uk/study/courses/postgraduate-taught/machine-learning-data-science/)]
+- Imperial MLDS, *Unstructured Data Analysis*, Sep 2022 -- Jan 2023; Sep 2023 -- Jan 2024. [[website](https://www.imperial.ac.uk/study/courses/postgraduate-taught/machine-learning-data-science/)]
 - Aalto-Imperial-TUM workshops on Algebraic Methods in Data Science, *An introduction to Topological Data Analysis*, joint work with [Anna Song](https://sites.google.com/view/annasong), Jan 2022. [[Slides](/papers-and-ppts/TDA_tutorial.pdf)]
 
 

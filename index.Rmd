@@ -15,11 +15,12 @@ I obtained my master and bachelor's degree at Beijing Institute of Technology un
 
 - 2021--Present Ph.D. in Statistics, Imperial College London.
 - 2018--2021 M.S. in Mathematics, Beijing Institute of Technology. [[Master Thesis (in Chinese)](/papers-and-ppts/masterthesis.pdf)]
-- 2014--2018 B.S. in Mathematics, Beijing Institute of Technology. [[Bachelor Thesis (in Chinese)](/papers-and-ppts/本科毕业论文.pdf)]
+- 2014--2018 B.S. in Mathematics, Beijing Institute of Technology. 
+
 
 ### Research Interests
 
-- Geometric and Statistical Inference
+- Manifold Learning
 - Topological Data Analysis
 - Tropical Geometry
 
