@@ -2,13 +2,29 @@
 output: html_document
 ---
 
+<br><br>[Github](https://github.com/YueqiCao)<br><br>
+
+### **PD-Subsample**: Approximating the persistent homology of large datsets
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/PDS.png" style="width: 300px; margin-right: 15px;">
+  <div style="padding-top: 100px;">
+  <p>Computing persistence diagrams (PDs) for massive point cloud datasets is prohibitive. To bypass this difficulty, classical bootstrapping method is adapted, where mean persistence measures and Fréchet means of PDs of subsample sets are regarded as approximations of the true PD of the original data. This [repository](https://github.com/YueqiCao/PD-subsample) contains codes to implement this algorithm.</p>
+</div>
+</div>
+
+
 ### **WME**: Estimating the Weingarten map for submanifold point clouds  
 
-<img align="left" src="images/idea.png" width="350px" height="200px">
-
-WME (*Weingarten Map Estimator*) is an efficient algorithm to estimate the Weingarten map (or shape operator, or the second fundamental form in the literature of differential geometry) for submanifold point clouds in arbitrary dimension. The matlab code can be found in my github repository [WME](https://github.com/YueqiCao/WME.git). You can also download packages from the following
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="images/idea.png" style="width: 300px; margin-right: 15px;">
+  <div style="padding-top: 10px;">
+<p>WME (*Weingarten Map Estimator*) is an efficient algorithm to estimate the Weingarten map (or shape operator, or the second fundamental form in the literature of differential geometry) for submanifold point clouds in arbitrary dimension. The matlab code can be found in my github repository [WME](https://github.com/YueqiCao/WME.git). You can also download packages from the following
 
 - [zip](https://github.com/YueqiCao/WME/archive/v1.1.zip)
 - [tar.gz](https://github.com/YueqiCao/WME/archive/v1.1.tar.gz)
+</p>
+</div>
+</div>
 
 

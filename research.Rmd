@@ -2,34 +2,33 @@
 output: html_document
 ---
 
-### Personal Links
-
-[Google Scholar](https://scholar.google.com/citations?user=JlKKsdAAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [DBLP](https://dblp.org/pid/241/9884.html) &nbsp;&nbsp;&nbsp;&nbsp; [ORCID](https://orcid.org/0000-0001-8856-2902)
+<br><br>[Google Scholar](https://scholar.google.com/citations?user=JlKKsdAAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [DBLP](https://dblp.org/pid/241/9884.html) &nbsp;&nbsp;&nbsp;&nbsp; [ORCID](https://orcid.org/0000-0001-8856-2902)<br><br>
 
 ### Preprints
 
-- S.Bhatia, **Y.Cao**, P.Lezeau, A.Monod, Tropical Expressivity of Neural Networks. [[URL](https://arxiv.org/abs/2405.20174)]
-- R.Talbut, D.Tramontano, **Y.Cao**, M.Drton, A.Monod, Probability Metrics for Tropical Spaces of Different Dimensions. [[URL](https://arxiv.org/abs/2307.02846)]
-- **Y.Cao**, A.Monod, A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams. [[URL](https://arxiv.org/abs/2207.03943)]
-- **Y.Cao**, A.Monod, Approximating Persistent Homology for Large Datasets. [[URL](https://arxiv.org/abs/2204.09155)]
+- S. Bhatia, **Y. Cao**, P. Lezeau, A. Monod. <u>[Tropical Expressivity of Neural Networks](https://arxiv.org/abs/2405.20174)</u>. arXiv:2405.20174.
+- R. Talbut, D. Tramontano, **Y. Cao**, M. Drton, A. Monod. <u>[Probability Metrics for Tropical Spaces of Different Dimensions](https://arxiv.org/abs/2307.02846)</u>. arXiv:2307.02846.
+- **Y. Cao**, A. Monod. <u>[A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams](https://arxiv.org/abs/2207.03943)</u>. arXiv:2207.03943.
+- **Y. Cao**, A. Monod. <u>[Approximating Persistent Homology for Large Datasets](https://arxiv.org/abs/2204.09155)</u>. arXiv:2204.09155.
 
 
 ### Selected Publications 
 
-- **Y.Cao**, P.Leung, A.Monod, k-Means Clustering for Persistent Homology.*Advances in Data Analysis and Classification*, 2024. [[URL](https://link.springer.com/article/10.1007/s11634-023-00578-y)]
-- **Y.Cao**, A.Vlontzos, L.Schmidtke, B.Kainz, A.Monod, Topological Information Retrieval with Dilation-Invariant Bottleneck Comparative Measures. *Information and Inference: A Journal of IMA*, 2023. [[URL](https://academic.oup.com/imaiai/article/12/3/iaad022/7217093)]
-- **Y.Cao**, D.Li, H.Sun, A.H.Assadi, S.Zhang, Efficient Weingarten Map and Curvature Estimation on Manifolds. *Machine Learning*, 2021. [[URL](https://link.springer.com/article/10.1007%2Fs10994-021-05953-4)]
-- F.Sun, **Y.Cao**, S.Zhang, H.Sun, The Bayesian Inference of Pareto Models Based on Information Geometry. *Entropy*, 2021. [[URL](https://www.mdpi.com/1099-4300/23/1/45)], [[PDF](/papers-and-ppts/entropy-sun.pdf)] 
-- **Y.Cao**, S.Zhang, F.Yan, W.Li, F.Sun, H.Sun, Unsupervised Environmental Sound Classification Based On Topological Persistence. *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Chongqing, 2019. [[URL](https://ieeexplore.ieee.org/document/9173135)]
-- S.Zhang, **Y.Cao**, W.Li, F.Yan, Y.Luo, H.Sun, A New Riemannian Structure in SPD(n). *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Chongqing, 2019. [[URL](https://ieeexplore.ieee.org/document/9173017)]
+- **Y. Cao**, P. Leung, A. Monod, <u>[k-Means Clustering for Persistent Homology](https://link.springer.com/article/10.1007/s11634-023-00578-y)</u>. *Advances in Data Analysis and Classification*, 2024.
+- **Y. Cao**, A. Vlontzos, L. Schmidtke, B. Kainz, A. Monod. <u>[Topological Information Retrieval with Dilation-Invariant Bottleneck Comparative Measures](https://academic.oup.com/imaiai/article/12/3/iaad022/7217093)</u>. *Information and Inference: A Journal of IMA*, 2023.
+- **Y. Cao**, D. Li, H. Sun, A. Assadi, S. Zhang. <u>[Efficient Weingarten Map and Curvature Estimation on Manifolds](https://link.springer.com/article/10.1007%2Fs10994-021-05953-4)</u>. *Machine Learning*, 2021.
+- F. Sun, **Y. Cao**, S. Zhang, H. Sun. <u>[The Bayesian Inference of Pareto Models Based on Information Geometry](https://www.mdpi.com/1099-4300/23/1/45)</u>. *Entropy*, 2021.
+- **Y. Cao**, S. Zhang, F. Yan, W. Li, F. Sun, H. Sun. <u>[Unsupervised Environmental Sound Classification Based On Topological Persistence](https://ieeexplore.ieee.org/document/9173135)</u>. *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP), Chongqing*, 2019.
+- S. Zhang, **Y. Cao**, W. Li, F. Yan, Y. Luo, H. Sun. <u>[A New Riemannian Structure in SPD(n)](https://ieeexplore.ieee.org/document/9173017)</u>. *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP), Chongqing*, 2019.
 
 
 
 ### Talks & Posters
-- **Y.Cao**, A.Monod, Computational tropical Abel-Jacobi map for metric graphs, *Applied Algebra and Geometry, 19th meeting, Edinburgh*, Edinburgh, 2024. [[Invited Talk](https://sites.google.com/view/appliedalgebraandgeometry/home/19th-meeting-edinburgh?authuser=0)] 
-- S.Bhatia, **Y.Cao**, P.Lezeau, A.Monod, A Tropical Geometric Perspective on Deep Learning, *Geometric Deep Learning workshop*, Cambridge, 2024. [[Poster](/papers-and-ppts/TropicalNN-Poster.pdf)]
-- **Y.Cao**, A.Monod, A Condition for the Uniqueness of Fréchet Means of Persistence Diagrams, *Minisymposium on Applied Algebraic Topology: Theory and Implementation, SIAM Conference on Applied Algebraic Geometry*, Eindhoven, 2023. [[Invited Talk]()]
-- **Y.Cao**, A.Monod, A Condition for the Uniqueness of Fréchet Means of Persistence Diagrams, *Algebraic Topology: Methods, Computation and Science (ATMCS10)*, Oxford, 2022. [[Poster](/papers-and-ppts/ATMCS10.pdf)]
+
+- **Y. Cao**, A. Monod. Computational tropical Abel-Jacobi map for metric graphs, *Applied Algebra and Geometry, 19th meeting, Edinburgh*, Edinburgh, 2024. [[Invited Talk](https://sites.google.com/view/appliedalgebraandgeometry/home/19th-meeting-edinburgh?authuser=0)] 
+- S. Bhatia, **Y. Cao**, P. Lezeau, A. Monod. A Tropical Geometric Perspective on Deep Learning, *Geometric Deep Learning workshop*, Cambridge, 2024. [[Poster](/papers-and-ppts/TropicalNN-Poster.pdf)]
+- **Y. Cao**, A. Monod. A Condition for the Uniqueness of Fréchet Means of Persistence Diagrams, *Minisymposium on Applied Algebraic Topology: Theory and Implementation, SIAM Conference on Applied Algebraic Geometry*, Eindhoven, 2023. [[Invited Talk]()]
+- **Y. Cao**, A. Monod. A Condition for the Uniqueness of Fréchet Means of Persistence Diagrams, *Algebraic Topology: Methods, Computation and Science (ATMCS10)*, Oxford, 2022. [[Poster](/papers-and-ppts/ATMCS10.pdf)]
 
 
 

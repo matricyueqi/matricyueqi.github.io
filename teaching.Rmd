@@ -9,10 +9,10 @@ output: html_document
 (Online) MSc, Imperial College London.
 - Sep 2022 -- Jan 2023, *MATH70103, Unstructured Data Analysis*, Machine Learning and Data Science
 (Online) MSc, Imperial College London.
-- Jan 2022, *An introduction to Topological Data Analysis*, Aalto-Imperial-TUM workshops on Algebraic Methods in Data Science. (joint with [Anna Song](https://sites.google.com/view/annasong))  [[Slides](/papers-and-ppts/TDA_tutorial.pdf)]
+- Jan 2022, *An introduction to Topological Data Analysis*, Aalto-Imperial-TUM workshops on Algebraic Methods in Data Science (joint with [Anna Song](https://sites.google.com/view/annasong)).  [[Slides](/papers-and-ppts/TDA_tutorial.pdf)]
 - Aug 2019 -- Jan 2020, *Mathematical Analysis*, Beijing Institute of Technology.
 - Aug 2018 -- Jun 2019, *Linear Algebra*, Beijing Institute of Technology.
 
 ### Supervision
 
-- Prudence Leung, Imperial College London, MSc Statistics (joint with [Anthea Monod](https://sites.google.com/view/antheamonod/home))
+- Prudence Leung, Imperial College London, MSc Statistics (joint with [Anthea Monod](https://sites.google.com/view/antheamonod/home)).
