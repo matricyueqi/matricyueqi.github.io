@@ -19,7 +19,6 @@ output: html_document
 - **Y. Cao**, D. Li, H. Sun, A. Assadi, S. Zhang. <u>[Efficient Weingarten Map and Curvature Estimation on Manifolds](https://link.springer.com/article/10.1007%2Fs10994-021-05953-4)</u>. *Machine Learning*, 2021.
 - F. Sun, **Y. Cao**, S. Zhang, H. Sun. <u>[The Bayesian Inference of Pareto Models Based on Information Geometry](https://www.mdpi.com/1099-4300/23/1/45)</u>. *Entropy*, 2021.
 - **Y. Cao**, S. Zhang, F. Yan, W. Li, F. Sun, H. Sun. <u>[Unsupervised Environmental Sound Classification Based On Topological Persistence](https://ieeexplore.ieee.org/document/9173135)</u>. *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP), Chongqing*, 2019.
-- S. Zhang, **Y. Cao**, W. Li, F. Yan, Y. Luo, H. Sun. <u>[A New Riemannian Structure in SPD(n)](https://ieeexplore.ieee.org/document/9173017)</u>. *2019 IEEE International Conference on Signal, Information and Data Processing (ICSIDP), Chongqing*, 2019.
 
 
 
