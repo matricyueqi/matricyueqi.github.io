@@ -14,11 +14,11 @@ output: html_document
 
 ### Selected Publications 
 
-- **Y. Cao**, A. Monod. <u>[A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams](https://www.sciencedirect.com/science/article/pii/S0925772124000841)</u>. *Computational Geometry: Theory and Applications*, 2025.
-- **Y. Cao**, P. Leung, A. Monod, <u>[k-Means Clustering for Persistent Homology](https://link.springer.com/article/10.1007/s11634-023-00578-y)</u>. *Advances in Data Analysis and Classification*, 2024.
-- **Y. Cao**, A. Vlontzos, L. Schmidtke, B. Kainz, A. Monod. <u>[Topological Information Retrieval with Dilation-Invariant Bottleneck Comparative Measures](https://academic.oup.com/imaiai/article/12/3/iaad022/7217093)</u>. *Information and Inference: A Journal of IMA*, 2023.
-- **Y. Cao**, D. Li, H. Sun, A. Assadi, S. Zhang. <u>[Efficient Weingarten Map and Curvature Estimation on Manifolds](https://link.springer.com/article/10.1007%2Fs10994-021-05953-4)</u>. *Machine Learning*, 2021.
-- F. Sun, **Y. Cao**, S. Zhang, H. Sun. <u>[The Bayesian Inference of Pareto Models Based on Information Geometry](https://www.mdpi.com/1099-4300/23/1/45)</u>. *Entropy*, 2021.
+- **Y. Cao**, A. Monod. <u>[A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams](https://www.sciencedirect.com/science/article/pii/S0925772124000841)</u>. *Computational Geometry: Theory and Applications*. 2025.
+- **Y. Cao**, P. Leung, A. Monod. <u>[k-Means Clustering for Persistent Homology](https://link.springer.com/article/10.1007/s11634-023-00578-y)</u>. *Advances in Data Analysis and Classification*. 2024.
+- **Y. Cao**, A. Vlontzos, L. Schmidtke, B. Kainz, A. Monod. <u>[Topological Information Retrieval with Dilation-Invariant Bottleneck Comparative Measures](https://academic.oup.com/imaiai/article/12/3/iaad022/7217093)</u>. *Information and Inference: A Journal of IMA*. 2023.
+- **Y. Cao**, D. Li, H. Sun, A. Assadi, S. Zhang. <u>[Efficient Weingarten Map and Curvature Estimation on Manifolds](https://link.springer.com/article/10.1007%2Fs10994-021-05953-4)</u>. *Machine Learning*. 2021.
+- F. Sun, **Y. Cao**, S. Zhang, H. Sun. <u>[The Bayesian Inference of Pareto Models Based on Information Geometry](https://www.mdpi.com/1099-4300/23/1/45)</u>. *Entropy*. 2021.
 
 ### Talks & Posters
 
