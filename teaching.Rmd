@@ -3,7 +3,8 @@ output: html_document
 ---
 
 ### Teaching Assistance
-
+- Sep 2024 -- Jan 2025, *MATH70103, Unstructured Data Analysis*, Machine Learning and Data Science
+(Online) MSc, Imperial College London.
 - Jul 2024, *MSc in Statistics, Data Challenge*, Imperial College London.
 - Sep 2023 -- Jan 2024, *MATH70103, Unstructured Data Analysis*, Machine Learning and Data Science
 (Online) MSc, Imperial College London.
@@ -13,6 +14,6 @@ output: html_document
 - Aug 2019 -- Jan 2020, *Mathematical Analysis*, Beijing Institute of Technology.
 - Aug 2018 -- Jun 2019, *Linear Algebra*, Beijing Institute of Technology.
 
-### Supervision
+### Co-supervision
 
 - Prudence Leung, Imperial College London, MSc Statistics (joint with [Anthea Monod](https://sites.google.com/view/antheamonod/home)).
