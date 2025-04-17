@@ -6,18 +6,18 @@ output: html_document
 
 ### **TropAJ**: Computing the tropical Abel--Jacobi transform of metric graphs
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/tropAJ.png" style="width: 255px; margin-right: 30px; margin-left: 30px;margin-top:15px;margin-bottom:15px">
-  <div style="padding-top: 100px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.3rem;">
+  <img src="images/tropAJ.png" style="width: 16rem; margin-right: 2rem; margin-left: 2rem; margin-top: 0.9rem; margin-bottom: 0.9rem">
+  <div style="padding-top: 4.5rem;">
 <p>Metric graphs are in one-to-one correspondence with tropical curves in tropical algebraic geometry. The tropical Abel--Jacobi map provides an embedding of a metric graph into its associated flat torus known as the tropical Jacobian. The [TropAJ](https://github.com/YueqiCao/Tropical-Abel-Jacobi) repository contains codes to compute the tropical Abel--Jacobi transform of a metric graph, as well as the extrinsic tropical distances defined on the tropical Jacobian.</p>
 </div>
 </div>
 
 ### **PD-Subsample**: Approximating the persistent homology of large datsets
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/PDS.png" style="width: 300px; margin-right: 15px;">
-  <div style="padding-top: 100px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.3rem;">
+  <img src="images/PDS.png" style="width: 18rem; margin-right: 0.9rem;">
+  <div style="padding-top: 4.5rem;">
   <p>Computing persistence diagrams (PDs) for massive point cloud datasets is prohibitive. To bypass this difficulty, classical bootstrapping method is adapted, where mean persistence measures and Fréchet means of PDs of subsample sets are regarded as approximations of the true PD of the original data. This [repository](https://github.com/YueqiCao/PD-subsample) contains codes to implement this algorithm.</p>
 </div>
 </div>
@@ -25,9 +25,9 @@ output: html_document
 
 ### **WME**: Estimating the Weingarten map for submanifold point clouds  
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="images/idea.png" style="width: 300px; margin-right: 15px;">
-  <div style="padding-top: 10px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.3rem;">
+  <img src="images/idea.png" style="width: 18rem; margin-right: 0.9rem;">
+  <div style="padding-top: 0.6rem;">
 <p>WME (*Weingarten Map Estimator*) is an efficient algorithm to estimate the Weingarten map (or shape operator, or the second fundamental form in the literature of differential geometry) for submanifold point clouds in arbitrary dimension. The matlab code can be found in my github repository [WME](https://github.com/YueqiCao/WME.git). You can also download packages from the following
 
 - [zip](https://github.com/YueqiCao/WME/archive/v1.1.zip)
