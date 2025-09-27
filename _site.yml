@@ -13,8 +13,8 @@ navbar:
       href: teaching.html
     - text: "Code"
       href: code.html
-    - text: "CV"
-      href: CV2025.pdf
+    #- text: "CV"
+    #  href: CV2025.pdf
     # - text: "Others"
     #   menu:
     #     - text: "Bio"

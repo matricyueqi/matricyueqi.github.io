@@ -23,12 +23,13 @@ output: html_document
 
 ### Talks & Posters
 
-- **Y. Cao**, A. Monod. Computing the Tropical Abel-Jacobi Transform of Metric Graphs, *Minisymposium on Computational Tropical Geometry: Theory and Implementation, SIAM Conference on Applied Algebraic Geometry*, Wisconsin, 2025. [[Invited Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=146656)]
-- **Y. Cao**. Generalized Multiple Subsampling for Persistent Homology, *Applied Topology Seminar*, Oxford, 2024. [[Invited Talk](https://www.maths.ox.ac.uk/node/69558)]
-- **Y. Cao**, A. Monod. Computational tropical Abel-Jacobi map for metric graphs, *Applied Algebra and Geometry, 19th meeting, Edinburgh*, Edinburgh, 2024. [[Invited Talk](https://sites.google.com/view/appliedalgebraandgeometry/home/19th-meeting-edinburgh?authuser=0)] 
-- S. Bhatia, **Y. Cao**, P. Lezeau, A. Monod. A Tropical Geometric Perspective on Deep Learning, *Geometric Deep Learning workshop*, Cambridge, 2024. [[Poster](/papers-and-ppts/TropicalNN-Poster.pdf)]
-- **Y. Cao**, A. Monod. A Condition for the Uniqueness of Fréchet Means of Persistence Diagrams, *Minisymposium on Applied Algebraic Topology: Theory and Implementation, SIAM Conference on Applied Algebraic Geometry*, Eindhoven, 2023. [[Invited Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=131128)]
-- **Y. Cao**, A. Monod. A Condition for the Uniqueness of Fréchet Means of Persistence Diagrams, *Algebraic Topology: Methods, Computation and Science (ATMCS10)*, Oxford, 2022. [[Poster](/papers-and-ppts/ATMCS10.pdf)]
+- Computing the Tropical Abel-Jacobi Transform of Metric Graphs, *Applied CATS Seminar*, Stockholm, 2025. [[Invited Talk](https://www.math-stockholm.se/en/kalender/yueqi-cao-computing-the-tropical-abel-jacobi-transform-of-metric-graphs-1.1423412?date=2025-09-09&orgdate=2025-09-09&length=1&orglength=1)]
+- Computing the Tropical Abel-Jacobi Transform of Metric Graphs, *Minisymposium on Computational Tropical Geometry: Theory and Implementation, SIAM Conference on Applied Algebraic Geometry*, Wisconsin, 2025. [[Invited Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=146656)]
+- Generalized Multiple Subsampling for Persistent Homology, *Applied Topology Seminar*, Oxford, 2024. [[Invited Talk](https://www.maths.ox.ac.uk/node/69558)]
+- Computational tropical Abel-Jacobi map for metric graphs, *Applied Algebra and Geometry, 19th meeting, Edinburgh*, Edinburgh, 2024. [[Invited Talk](https://sites.google.com/view/appliedalgebraandgeometry/home/19th-meeting-edinburgh?authuser=0)] 
+- A Tropical Geometric Perspective on Deep Learning, *Geometric Deep Learning workshop*, Cambridge, 2024. [[Poster](/papers-and-ppts/TropicalNN-Poster.pdf)]
+- A Condition for the Uniqueness of Fréchet Means of Persistence Diagrams, *Minisymposium on Applied Algebraic Topology: Theory and Implementation, SIAM Conference on Applied Algebraic Geometry*, Eindhoven, 2023. [[Invited Talk](https://meetings.siam.org/sess/dsp_talk.cfm?p=131128)]
+- A Condition for the Uniqueness of Fréchet Means of Persistence Diagrams, *Algebraic Topology: Methods, Computation and Science (ATMCS10)*, Oxford, 2022. [[Poster](/papers-and-ppts/ATMCS10.pdf)]
 
 
 

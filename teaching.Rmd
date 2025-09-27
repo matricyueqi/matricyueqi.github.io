@@ -16,4 +16,9 @@ output: html_document
 
 ### Co-supervision
 
-- Prudence Leung, Imperial College London, MSc Statistics (joint with [Anthea Monod](https://sites.google.com/view/antheamonod/home)).
+- Prudence Leung, Imperial College London, MSc Statistics.
+
+### Co-organization
+
+- 2025 International Workshop on
+Applied Geometry and Related Topics, Keio University, July 14--18, 2025.  [[Website](https://workshopagrt.github.io/conference/)]
