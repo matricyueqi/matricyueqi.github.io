@@ -6,20 +6,22 @@ output: html_document
 
 ### Preprints
 
+- A. Micheli, **Y. Cao**, A. Monod, S. Bhatt. <u>[Riemannian Neural Optimal Transport](https://arxiv.org/abs/2602.03566)</u>. arXiv:2602.03566.
+- **Y. Cao**. <u>[Varadhan Functions, Variances, and Means on Compact Riemannian Manifolds](https://arxiv.org/abs/2601.02832)</u>. arXiv:2601.02832.
 - **Y. Cao**, A. Monod. <u>[Metric Graph Kernels via the Tropical Torelli Map](https://arxiv.org/abs/2505.12129)</u>. arXiv:2505.12129.
 - **Y. Cao**, A. Monod. <u>[Computing the Tropical Abel--Jacobi Transform and Tropical Distances for Metric Graphs](https://arxiv.org/abs/2504.11619)</u>. arXiv:2504.11619.
 - P. Lezeau, T. Walker, **Y. Cao**, S. Bhatia, A. Monod. <u>[Tropical Expressivity of Neural Networks](https://arxiv.org/abs/2405.20174)</u>. arXiv:2405.20174.
-- R. Talbut, D. Tramontano, **Y. Cao**, M. Drton, A. Monod. <u>[Probability Metrics for Tropical Spaces of Different Dimensions](https://arxiv.org/abs/2307.02846)</u>. arXiv:2307.02846.
 - **Y. Cao**, A. Monod. <u>[Approximating Persistent Homology for Large Datasets](https://arxiv.org/abs/2204.09155)</u>. arXiv:2204.09155.
 
 
 ### Selected Publications 
 
+- R. Talbut, D. Tramontano, **Y. Cao**, M. Drton, A. Monod. <u>[Probability Metrics for Tropical Spaces of Different Dimensions](https://doi.org/10.3934/fods.2026001)</u>. *Foundations of Data Science*. 2025. 
 - **Y. Cao**, A. Monod. <u>[A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams](https://www.sciencedirect.com/science/article/pii/S0925772124000841)</u>. *Computational Geometry: Theory and Applications*. 2025.
 - **Y. Cao**, P. Leung, A. Monod. <u>[k-Means Clustering for Persistent Homology](https://link.springer.com/article/10.1007/s11634-023-00578-y)</u>. *Advances in Data Analysis and Classification*. 2024.
 - **Y. Cao**, A. Vlontzos, L. Schmidtke, B. Kainz, A. Monod. <u>[Topological Information Retrieval with Dilation-Invariant Bottleneck Comparative Measures](https://academic.oup.com/imaiai/article/12/3/iaad022/7217093)</u>. *Information and Inference: A Journal of IMA*. 2023.
 - **Y. Cao**, D. Li, H. Sun, A. Assadi, S. Zhang. <u>[Efficient Weingarten Map and Curvature Estimation on Manifolds](https://link.springer.com/article/10.1007%2Fs10994-021-05953-4)</u>. *Machine Learning*. 2021.
-- F. Sun, **Y. Cao**, S. Zhang, H. Sun. <u>[The Bayesian Inference of Pareto Models Based on Information Geometry](https://www.mdpi.com/1099-4300/23/1/45)</u>. *Entropy*. 2021.
+
 
 ### Talks & Posters
 
