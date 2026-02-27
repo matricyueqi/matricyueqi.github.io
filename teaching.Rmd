@@ -3,6 +3,7 @@ output: html_document
 ---
 
 ### Teaching Assistance
+- Jan 2026 -- Mar 2026,  *SF2930, Regression Analysis*, KTH Royal Institute of Technology.
 - Sep 2024 -- Jan 2025, *MATH70103, Unstructured Data Analysis*, Machine Learning and Data Science
 (Online) MSc, Imperial College London.
 - Jul 2024, *MSc in Statistics, Data Challenge*, Imperial College London.
@@ -20,5 +21,7 @@ output: html_document
 
 ### Co-organization
 
+- Digital Futures Seminar Spring 2026. [[Website](https://www.digitalfutures.kth.se/events/)]
+- The 3rd Digital Futures Young Scientist Conference, Digital Futures, March 12, 2026.  [[Website](https://sites.google.com/view/df-ysc-2026/)]
 - 2025 International Workshop on
 Applied Geometry and Related Topics, Keio University, July 14--18, 2025.  [[Website](https://workshopagrt.github.io/conference/)]
