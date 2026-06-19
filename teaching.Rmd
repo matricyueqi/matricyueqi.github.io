@@ -15,13 +15,18 @@ output: html_document
 - Aug 2019 -- Jan 2020, *Mathematical Analysis*, Beijing Institute of Technology.
 - Aug 2018 -- Jun 2019, *Linear Algebra*, Beijing Institute of Technology.
 
-### Co-supervision
+### Project Supervision
 
+- Carl-Magnus Sundh, KTH Royal Institute of Technology, MSc Applied Mathematics.
+- Fredrik Wilson, KTH Royal Institute of Technology, MSc Applied Mathematics.
+- Anh Do, KTH Royal Institute of Technology, MSc Applied Mathematics.
 - Prudence Leung, Imperial College London, MSc Statistics.
 
-### Co-organization
+### Conference Organization
 
 - Digital Futures Seminar Spring 2026. [[Website](https://www.digitalfutures.kth.se/events/)]
 - The 3rd Digital Futures Young Scientist Conference, Digital Futures, March 12, 2026.  [[Website](https://sites.google.com/view/df-ysc-2026/)]
 - 2025 International Workshop on
 Applied Geometry and Related Topics, Keio University, July 14--18, 2025.  [[Website](https://workshopagrt.github.io/conference/)]
+- 2026 International Workshop on
+Applied Geometry and Related Topics, China West Normal University, July 22--25, 2026.  [[Website](https://workshopagrt.github.io/conference/2026/)]

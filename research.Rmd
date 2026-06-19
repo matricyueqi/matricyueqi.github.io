@@ -6,7 +6,7 @@ output: html_document
 
 ### Preprints
 
-- A. Micheli, **Y. Cao**, A. Monod, S. Bhatt. <u>[Riemannian Neural Optimal Transport](https://arxiv.org/abs/2602.03566)</u>. arXiv:2602.03566.
+- A. Micheli, **Y. Cao**, A. Monod, S. Bhatt. <u>[Generative Modeling on Metric Graphs via Neural Optimal Transport](https://arxiv.org/abs/2606.16273)</u>. arXiv:2606.16273.
 - **Y. Cao**. <u>[Varadhan Functions, Variances, and Means on Compact Riemannian Manifolds](https://arxiv.org/abs/2601.02832)</u>. arXiv:2601.02832.
 - **Y. Cao**, A. Monod. <u>[Metric Graph Kernels via the Tropical Torelli Map](https://arxiv.org/abs/2505.12129)</u>. arXiv:2505.12129.
 - **Y. Cao**, A. Monod. <u>[Computing the Tropical Abel--Jacobi Transform and Tropical Distances for Metric Graphs](https://arxiv.org/abs/2504.11619)</u>. arXiv:2504.11619.
@@ -16,6 +16,7 @@ output: html_document
 
 ### Selected Publications 
 
+- A. Micheli, **Y. Cao**, A. Monod, S. Bhatt. <u>[Riemannian Neural Optimal Transport](https://icml.cc/virtual/2026/poster/62618)</u>. *International Conference on Machine Learning*. 2026.
 - R. Talbut, D. Tramontano, **Y. Cao**, M. Drton, A. Monod. <u>[Probability Metrics for Tropical Spaces of Different Dimensions](https://doi.org/10.3934/fods.2026001)</u>. *Foundations of Data Science*. 2025. 
 - **Y. Cao**, A. Monod. <u>[A Geometric Condition for Uniqueness of Fréchet Means of Persistence Diagrams](https://www.sciencedirect.com/science/article/pii/S0925772124000841)</u>. *Computational Geometry: Theory and Applications*. 2025.
 - **Y. Cao**, P. Leung, A. Monod. <u>[k-Means Clustering for Persistent Homology](https://link.springer.com/article/10.1007/s11634-023-00578-y)</u>. *Advances in Data Analysis and Classification*. 2024.
